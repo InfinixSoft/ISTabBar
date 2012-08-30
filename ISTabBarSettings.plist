@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title_labels_settings</key>
+	<dict>
+		<key>font_name</key>
+		<string>Arial Rounded MT Bold</string>
+		<key>font_size</key>
+		<string>12</string>
+		<key>vertical_offset</key>
+		<string>-6</string>
+		<key>default_color</key>
+		<dict>
+			<key>r</key>
+			<string>179</string>
+			<key>g</key>
+			<string>179</string>
+			<key>b</key>
+			<string>179</string>
+		</dict>
+		<key>selected_color</key>
+		<dict>
+			<key>r</key>
+			<string>255</string>
+			<key>g</key>
+			<string>255</string>
+			<key>b</key>
+			<string>255</string>
+		</dict>
+	</dict>
+	<key>image_names</key>
+	<dict>
+		<key>background</key>
+		<string>tabbar_background.png</string>
+		<key>selected_box</key>
+		<string>tabbar_selected_box.png</string>
+		<key>tabitems</key>
+		<array>
+			<dict>
+				<key>on</key>
+				<string>tabbar_meet_on.png</string>
+				<key>off</key>
+				<string>tabbar_meet_off.png</string>
+			</dict>
+			<dict>
+				<key>on</key>
+				<string>tabbar_mycircles_on.png</string>
+				<key>off</key>
+				<string>tabbar_mycircles_off.png</string>
+			</dict>
+			<dict>
+				<key>on</key>
+				<string>tabbar_favorites_on.png</string>
+				<key>off</key>
+				<string>tabbar_favorites_off.png</string>
+			</dict>
+			<dict>
+				<key>on</key>
+				<string>tabbar_myprofile_on.png</string>
+				<key>off</key>
+				<string>tabbar_myprofile_off.png</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
